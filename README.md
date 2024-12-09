@@ -64,10 +64,10 @@
 
 ## 📂 목차
 1. [오픈소스 소프트웨어 개요](./OSS-Overview.md)
-2. [Git 개요 및 명령어 정리](./Git/)
-   - [Git 기본 개념](./Git/Git-Basics.md)
-   - [Git 명령어 정리](./Git/Git-Commands.md)
-3. [GitHub 개요 및 기능](./GitHub/)
-   - [GitHub 개요](./GitHub/GitHub-Intro.md)
-   - [GitHub 주요 기능](./GitHub/GitHub-Features.md)
+2. [Git 개요 및 명령어 정리]
+   - [Git 기본 개념](./Git-Basics.md)
+   - [Git 명령어 정리](./Git-Commands.md)
+3. [GitHub 개요 및 기능]
+   - [GitHub 개요](./GitHub-Intro.md)
+   - [GitHub 주요 기능](./GitHub-Features.md)
 
